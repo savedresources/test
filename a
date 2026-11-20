@@ -1,2 +1,5 @@
 test text v gitest2
 stash test
+
+rebase -i check
+check rebase v2
