@@ -1,3 +1,8 @@
 test text v gitest2
+stash test
+
 
 win test
+rebase -i check
+check rebase v2
+check rebase v3
